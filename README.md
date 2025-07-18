@@ -76,7 +76,7 @@
 </p>
 
 ### AI Tools
-<p align="left"> <img src="https://img.shields.io/badge/-GitHub_Copilot-000?&logo=github&logoColor=white" height="30" alt="GitHub Copilot"/> <img src="https://img.shields.io/badge/-Cursor_AI-000?&logo=openai&logoColor=white" height="30" alt="Cursor AI"/> <img src="https://img.shields.io/badge/-Codium_AI-000?&logo=codio&logoColor=white" height="30" alt="Codium AI"/> <img src="https://img.shields.io/badge/-Mintlify-000?&logo=markdown&logoColor=white" height="30" alt="Mintlify"/> <img src="https://img.shields.io/badge/-OpenAI_APIs-000?&logo=openai&logoColor=white" height="30" alt="OpenAI APIs"/> <img src="https://img.shields.io/badge/-Qodome_AI-000?&logo=devdotto&logoColor=white" height="30" alt="Qodo AI"/> </p>
+<p align="left"> <img src="https://img.shields.io/badge/-GitHub_Copilot-000?&logo=github&logoColor=white" height="30" alt="GitHub Copilot"/> <img src="https://img.shields.io/badge/-Cursor_AI-000?&logo=openai&logoColor=white" height="30" alt="Cursor AI"/> <img src="https://img.shields.io/badge/-Codium_AI-000?&logo=codio&logoColor=white" height="30" alt="Codium AI"/> <img src="https://img.shields.io/badge/-Mintlify-000?&logo=markdown&logoColor=white" height="30" alt="Mintlify"/> <img src="https://img.shields.io/badge/-OpenAI_APIs-000?&logo=openai&logoColor=white" height="30" alt="OpenAI APIs"/></p>
 
 ---
 
